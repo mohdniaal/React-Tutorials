@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "titile": "My new Website",
+            "body": "lorem....",
+            "author": "abhijith",
+            "id": 1
+        },
+        {
+            "titile": "My new Website",
+            "body": "lorem....",
+            "author": "modu",
+            "id": 2
+        },
+        {
+            "titile": "My new Website",
+            "body": "lorem....",
+            "author": "rassan",
+            "id": 3
+        }
+    ]
+}
